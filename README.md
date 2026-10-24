@@ -74,7 +74,7 @@ These are the threats the design targets. Formal coverage (test cases for each) 
 ## Reading
 
 - **Substack:** [The Deming Engine](https://thedemingengine.substack.com)
-- **Introductory post:** *The Poisoned Invoice: Why AI Agents Need an Airlock* (on [The Deming Engine](https://thedemingengine.substack.com))
+- **Introductory post:** [*The Poisoned Invoice: Why AI Agents Need an Airlock*](https://thedemingengine.substack.com/p/the-poisoned-invoice-why-ai-agents)
 
 ## Security
 
